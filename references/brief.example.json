@@ -1,0 +1,37 @@
+{
+  "site_type": "affiliate",
+  "brand": "REPLACE_PUBLISHER",
+  "domain": "https://example.com",
+  "geo": "REPLACE",
+  "language": "en",
+  "primary_keyword": "REPLACE",
+  "hosting": "cloudflare-worker-assets",
+  "deploy": false,
+  "max_repair_rounds": 2,
+  "year": 2026,
+  "disclosure_text": "We may earn a commission when you use our links.",
+  "pages": [
+    {
+      "path": "/",
+      "keyword": "REPLACE",
+      "required_headings": []
+    }
+  ],
+  "utility_pages": [
+    "/about/",
+    "/contact/",
+    "/privacy/",
+    "/terms/",
+    "/responsible-gambling/",
+    "/affiliate-disclosure/",
+    "/editorial-policy/",
+    "/how-we-rate/"
+  ],
+  "brands": [
+    {
+      "name": "REPLACE_BRAND",
+      "route": "/go/replace-brand/",
+      "approved_url": "https://example.org/REPLACE_APPROVED_URL"
+    }
+  ]
+}
